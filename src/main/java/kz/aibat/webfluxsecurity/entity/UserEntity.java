@@ -18,6 +18,7 @@ public class UserEntity {
     private String password;
     private UserRole role;
     private String firstName;
+    private String lastName;
     private boolean enabled;
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
